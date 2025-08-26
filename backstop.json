@@ -1,0 +1,196 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "phone",
+      "width": 320,
+      "height": 480
+    },
+    {
+      "label": "tablet",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "label": "desktop",
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "homepage-1",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/",
+      "referenceUrl": "https://certainteed.com.ua/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "brands-2",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/brands/",
+      "referenceUrl": "https://certainteed.com.ua/brands/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "all-posts-3",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/all-posts/",
+      "referenceUrl": "https://certainteed.com.ua/all-posts/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "delivery-4",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/dostavka/",
+      "referenceUrl": "https://certainteed.com.ua/dostavka/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "payment-5",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/oplata/",
+      "referenceUrl": "https://certainteed.com.ua/oplata/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "all-products-6",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/all-products/",
+      "referenceUrl": "https://certainteed.com.ua/all-products/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "discounted-7",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/discounted/",
+      "referenceUrl": "https://certainteed.com.ua/discounted/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "bestsellers-8",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/bestsellers/",
+      "referenceUrl": "https://certainteed.com.ua/bestsellers/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "contact-9",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/contact/",
+      "referenceUrl": "https://certainteed.com.ua/contact/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "privacy-policy-10",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/politika-konfidentsialnosti/",
+      "referenceUrl": "https://certainteed.com.ua/politika-konfidentsialnosti/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "faq-11",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/faq/",
+      "referenceUrl": "https://certainteed.com.ua/faq/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "comparison-12",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/comparison/",
+      "referenceUrl": "https://certainteed.com.ua/comparison/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "authors-13",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/authors/",
+      "referenceUrl": "https://certainteed.com.ua/authors/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "clients-14",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/klientam/",
+      "referenceUrl": "https://certainteed.com.ua/klientam/",
+      "delay": 30000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "developers-15",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/zastrojschikam/",
+      "referenceUrl": "https://certainteed.com.ua/zastrojschikam/",
+      "delay": 10000,
+      "username": "",
+      "password": ""
+    },
+    {
+      "label": "architects-16",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://certainteed.com.ua/arhitektoram/",
+      "referenceUrl": "https://certainteed.com.ua/arhitektoram/",
+      "delay": 10000,
+      "username": "",
+      "password": ""
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-accelerated-2d-canvas",
+      "--no-first-run",
+      "--no-zygote",
+      "--disable-gpu",
+      "--disable-web-security",
+      "--disable-features=VizDisplayCompositor"
+    ],
+    "ignoreHTTPSErrors": true,
+    "timeout": 60000
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

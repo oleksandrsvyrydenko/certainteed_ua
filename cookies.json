@@ -1,0 +1,231 @@
+[
+  {
+    "name": "visid_incap_3057356",
+    "value": "1Q+l4/0yRpelsML89KhgNCfrnWgAAAAAQUIPAAAAAACP99aI/mJZRF2+rfAxZ74N",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1786661077,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "visid_incap_3054662",
+    "value": "wQYbphrSRNOQ3gB7nkipwpn3qmgAAAAAQUIPAAAAAAD+SV6B5j/BbDEIOp+R8psX",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1787526937.977434,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "incap_ses_1288_3054662",
+    "value": "qLkaHWtDtU8eZ7BBfOXfEZr3qmgAAAAA+2xIxSQnrA0VYklAvpqmKg==",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_vwo_uuid_v2",
+    "value": "DC4C3A4554F05CE30E33A643B55AA6611|7a0e7bc8790fa8ec699e845c5b30ba40",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1787657456,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1674921960.1756034975",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1763810975,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "visid_incap_3057743",
+    "value": "5XSCdje/Tn29gb3hCti0xrf3qmgAAAAAQUIPAAAAAABPsWJ+aHfJ+L9P8JzJfUYx",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1787526933,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "incap_ses_1288_3057743",
+    "value": "zaCaIxOpYhK1nrBBfOXfEbf3qmgAAAAATTf4YQnFbR0n9QrAaS4Yjg==",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "incap_ses_1288_3057356",
+    "value": "nUdLXvs0AlJy27BBfOXfEdr3qmgAAAAAPE5ym30A6j7fMFzVH599bw==",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "visid_incap_3057339",
+    "value": "F2cgT/lUTjmHu5hWALo/nP33qmgAAAAAQUIPAAAAAACeWglHb9uvG+vZVb1fTGdU",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1787554282,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "incap_ses_185_3057339",
+    "value": "nCiwV7LyWUrt/PPm5kCRAv33qmgAAAAAaJJ6liUHNuIwpOA8rsVySw==",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2025-08-24T11:40:22.960Z",
+    "domain": "stg.newcertainteed.com",
+    "path": "/",
+    "expires": 1787571622,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Sun+Aug+24+2025+14%3A40%3A23+GMT%2B0300+(%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%2C+%D0%BB%D0%B5%D1%82%D0%BD%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202307.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec3f6828-cd23-47e4-b3de-8024acd5f306&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+    "domain": "stg.newcertainteed.com",
+    "path": "/",
+    "expires": 1787571623,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "GDPR_ACCEPTED",
+    "value": "1",
+    "domain": "stg.newcertainteed.com",
+    "path": "/",
+    "expires": 1790595623.872923,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "LOCALE_ACCEPTED",
+    "value": "1",
+    "domain": "stg.newcertainteed.com",
+    "path": "/",
+    "expires": 1790595623.874403,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.127604202.1756035624",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1790595624.280177,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_rdt_uuid",
+    "value": "1756035624928.0bb13f40-3710-4790-91b8-c499dbafda43",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1763811624,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1756035625201.43997742429356743",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1763811625,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjSessionUser_960607",
+    "value": "eyJpZCI6IjMyZDIxOGQ1LTI0MGQtNTJiZS05YTgzLWU5MmQ1NzMwZGM0NSIsImNyZWF0ZWQiOjE3NTYwMzU2MjU4MDAsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1787571625,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_hjSession_960607",
+    "value": "eyJpZCI6IjU0NzNmNWY3LTBlZDgtNGFkMi1hMTM3LWJiN2I1YzU1YTFmNiIsImMiOjE3NTYwMzU2MjU4MDEsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1756037884,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1789731626,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ttp",
+    "value": "01K3DY2D151ZVTBPPYF1MP4WGE_.tt.1",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1789731626,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ttcsid",
+    "value": "1756035626026::gaATMcqCpRBWCYPOJD0K.1.1756035626026",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1789731626,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_pin_unauth",
+    "value": "dWlkPVlUTmhNak0xTURBdFpHWm1OQzAwTVdSbExUaGlORGd0T0dFd09ESTJZbU5sT1RGag",
+    "domain": ".stg.newcertainteed.com",
+    "path": "/",
+    "expires": 1787571626,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ttcsid_D0IG2GBC77UEU2GJPRQG",
+    "value": "1756035626026::frwmYvsjiAS6d3QW4Bn9.1.1756035626274",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1789731626,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga_WMQPY4FMEN",
+    "value": "GS2.1.s1756035624$o1$g0$t1756036084$j60$l0$h0",
+    "domain": ".newcertainteed.com",
+    "path": "/",
+    "expires": 1790596084.388654,
+    "httpOnly": false,
+    "secure": false
+  }
+]

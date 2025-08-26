@@ -1,0 +1,34 @@
+{
+  "name": "certainteed-backstopjs",
+  "version": "1.0.0",
+  "description": "Visual regression testing with BackstopJS for CertainTeed",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "backstop:init": "backstop init",
+    "backstop:test": "dotenv backstop test",
+    "backstop:approve": "dotenv backstop approve",
+    "backstop:openReport": "dotenv backstop openReport",
+    "backstop:reference": "dotenv backstop reference",
+    "backstop:remote": "dotenv backstop remote",
+    "test": "npm run backstop:test",
+    "approve": "npm run backstop:approve",
+    "report": "npm run backstop:openReport"
+  },
+  "keywords": [
+    "visual-regression",
+    "testing",
+    "backstopjs",
+    "certainteed"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv-cli": "^7.4.4"
+  },
+  "dependencies": {
+    "backstopjs": "^6.3.25",
+    "playwright": "^1.55.0",
+    "puppeteer": "^22.15.0"
+  }
+}
