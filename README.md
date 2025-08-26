@@ -38,17 +38,19 @@ Currently testing 20 key pages comparing staging vs production:
 
 The first project was created for testing the real prod env - https://www.certainteed.com against the stage env - https://stg.newcertainteed.com, but I faced some security issues:
 
-Summary of Authentication Investigation
+### Summary of Authentication Investigation
 After investigating the root cause of the authentication issues was identified:
-Root Cause
-The net::ERR_INVALID_AUTH_CREDENTIALS error is NOT actually an authentication failure. The authentication is working correctly (as proven by successful curl commands), but there's a fundamental incompatibility between BackstopJS and how the staging environment handles browser-based authentication.
-What We've Tried
+Root Cause - The net::ERR_INVALID_AUTH_CREDENTIALS error is NOT actually an authentication failure. 
+The authentication is working correctly (as proven by successful curl commands), but there's a fundamental incompatibility between BackstopJS and how the staging environment handles browser-based authentication.
+
+### What was tried:
  - Version alignment - Updated Puppeteer to match BackstopJS internal version
  - Different engines - Tried Playwright (had compatibility issues)
  - Request interception - Implemented selective header injection
  - Multiple auth methods - Tried page.authenticate, headers, and request interception
  - Enhanced error handling - Added comprehensive logging and error handling
-The Real Issue
+
+### The Real Issue
 The staging environment appears to have specific security measures that
 Allow HTTP-based authentication (curl works)
 Block or reject browser-based authentication attempts (Puppeteer fails)
