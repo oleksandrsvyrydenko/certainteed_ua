@@ -53,7 +53,8 @@ The staging environment appears to have specific security measures that
 Allow HTTP-based authentication (curl works)
 Block or reject browser-based authentication attempts (Puppeteer fails)
 This is likely a security feature to prevent automated browser access
-Recommended Solutions: 
+
+### Possible Solutions: 
  - Contact IT/Security Team
  - The staging environment may have specific security policies
  - Request whitelisting for automated testing tools
